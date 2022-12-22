@@ -31,8 +31,7 @@ def main():
     # Loops through 10 times to generate ten random numbers
     for counter in range(constants.MAX_LIST_SIZE):
         # Generates a random number from (0-100) and added it to a list
-        list_of_int.append(random.randint(constants.MIN_NUM,
-                                          constants.MAX_NUM))
+        list_of_int.append(random.randint(constants.MIN_NUM, constants.MAX_NUM))
 
         # Displays to console what number was added to the list and what
         # position it is at
