@@ -2,8 +2,9 @@
 
 # Created by: Peter Sobowale
 # Created on: Dec 14 2022
-# This program asks the user to enter a decimal
-# it then sends it to a function then rounds it
+# This program generates 10 random numbers from 
+# 0-100 then displays the largest one
+# using arrays 
 import random
 import constants
 
